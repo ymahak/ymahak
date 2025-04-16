@@ -8,8 +8,9 @@
 ## 🔭 About Me
 
 - 🌱 Currently mastering **Advanced React, TypeScript, and System Design**
-- 💡 Passionate about **DSA and competitive programming**
+- 💡 Passionate about **DSA**
 - 🔧 Working with **Firebase Authentication, Django, and PHP**
+- 💬 Ask me about **JavaScript, React, or web development in general**
 - 📫 How to reach me: **mehakyadav1502@gmail.com**
 
 ---
