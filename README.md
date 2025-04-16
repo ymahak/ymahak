@@ -1,5 +1,5 @@
-# ✨ Hey there, I'm Mahak Yadav 👋
-### 🚀 Full-Stack Developer | DSA Enthusiast | Open Source Contributor
+<h1 align="center">✨ Hey there, I'm <span style="color:#FF69B4;">Mahak Yadav</span> 👋</h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Open Source Contributor | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&width=435&lines=Building+scalable+web+applications;Clean+code+advocate;Passionate+about+problem+solving" alt="Typing SVG" />
@@ -57,7 +57,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ymahak&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="[https://github-readme-streak-stats.herokuapp.com/?user=ymahak&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=ymahak&theme=radical)" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -79,7 +78,7 @@
   <a href="https://github.com/ymahak">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/yourusername/">
+  <a href="https://leetcode.com/u/mehakyadav1502/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
