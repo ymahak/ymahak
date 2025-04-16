@@ -11,7 +11,6 @@
 - 💡 Passionate about **DSA and competitive programming**
 - 🔧 Working with **Firebase Authentication, Django, and PHP**
 - 📫 How to reach me: **mehakyadav1502@gmail.com**
-- ⚡ Fun fact: **I can solve a Rubik's cube while coding!**
 
 ---
 
@@ -57,7 +56,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ymahak&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ymahak&theme=radical" alt="GitHub Streak" />
+  <img width="48%" src="[https://github-readme-streak-stats.herokuapp.com/?user=ymahak&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=ymahak&theme=radical)" alt="GitHub Streak" />
 </p>
 
 <p align="center">
