@@ -12,7 +12,7 @@
 - 🔧 Working with **Firebase Authentication, Django, and PHP**
 - 💬 Ask me about **JavaScript, React, or web development in general**
 - 📫 How to reach me: **mehakyadav1502@gmail.com**
-- 📫 Portfolio - **https://portfolio-five-peach-94.vercel.app/**
+- 📫 Portfolio - **mahaky15.vercel.app**
 
 ---
 
